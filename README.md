@@ -60,7 +60,7 @@ The application includes a pre-loaded database with the following tables:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/sql-lab-questions.git
+   git clone https://github.com/abhra92/sql-lab.git
    cd sql-lab-questions
    ```
 
