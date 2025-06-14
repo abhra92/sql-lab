@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/abhra92/sql-lab/static/css/main.0f7c0382.css",
+    "main.js": "/abhra92/sql-lab/static/js/main.0912b0e8.js",
+    "static/js/453.2d1f0c29.chunk.js": "/abhra92/sql-lab/static/js/453.2d1f0c29.chunk.js",
+    "index.html": "/abhra92/sql-lab/index.html",
+    "main.0f7c0382.css.map": "/abhra92/sql-lab/static/css/main.0f7c0382.css.map",
+    "main.0912b0e8.js.map": "/abhra92/sql-lab/static/js/main.0912b0e8.js.map",
+    "453.2d1f0c29.chunk.js.map": "/abhra92/sql-lab/static/js/453.2d1f0c29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f7c0382.css",
+    "static/js/main.0912b0e8.js"
+  ]
+}
